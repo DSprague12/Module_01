@@ -1,5 +1,6 @@
 # Overview
 
+[Github Repository](https://github.com/DSprague12/Module_01)
 This project was intended to demonstrate my experience in the C# language and to serve as part of a catalog of projects that I want to have. This software allows users to create, view, modify, and delete recipes. Users can save their recipes to a file and load them later.
 
 [Software Demo Video](https://youtu.be/-sdb8hSJdvs)
