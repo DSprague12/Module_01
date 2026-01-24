@@ -1,0 +1,14 @@
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\bin\Debug\net8.0\Module_01.exe
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\bin\Debug\net8.0\Module_01.deps.json
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\bin\Debug\net8.0\Module_01.runtimeconfig.json
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\bin\Debug\net8.0\Module_01.dll
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\bin\Debug\net8.0\Module_01.pdb
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.AssemblyInfoInputs.cache
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.AssemblyInfo.cs
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.csproj.CoreCompileInputs.cache
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.dll
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\refint\Module_01.dll
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.pdb
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\Module_01.genruntimeconfig.cache
+C:\Users\sdall\Desktop\CS Projects\CSE310\Module_01\obj\Debug\net8.0\ref\Module_01.dll
